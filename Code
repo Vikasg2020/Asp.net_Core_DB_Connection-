@@ -1,0 +1,7 @@
+<DB Connection Code >
+
+caffold-DbContext "Server=CHETUIWK625\SQLEXPRESS ; Database= DataBaseName; Integrated Security=True" Microsoft.EntityFrameworkCore.SqlServer -o FolderName
+
+<updata database>
+
+Scaffold-DbContext "Server=Server Name ; Database= Database Name; Integrated Security=True" Microsoft.EntityFrameworkCore.SqlServer -f
